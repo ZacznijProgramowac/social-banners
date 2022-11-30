@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-project-blueprint"
+    }
+  },
+  "defaultProject": "angular-project-blueprint",
+  "cli": {
+    "analytics": false
+  }
 }
